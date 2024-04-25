@@ -6,4 +6,5 @@ For visualizations, I used the seaborn package. For statistical tests, I used sc
 Code, questions, hypotheses, and answers to the questions can all be found in the .ipynb file. The data is sourced from Kaggle, link in the first code block.
 
 control_group.csv - data for the control campaign
+
 test_group.csv - data for the test campaign
